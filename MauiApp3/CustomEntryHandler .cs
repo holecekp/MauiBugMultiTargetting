@@ -15,7 +15,7 @@ namespace MauiApp3
         {
         };
 
-        //public CustomEntryHandler()
-        //    : base(CustomEntryMapper) { }
+        public CustomEntryHandler()
+            : base(CustomEntryMapper) { }
     }
 }
